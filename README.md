@@ -14,3 +14,7 @@
 ## Fotofly | Photography WordPress Theme
 
 ![alt text](https://i.imgur.com/HecgkmG.png)
+
+## Cindy - Accessible Local Government WordPress Theme
+
+![alt text](https://i.imgur.com/hC8DnZ7.png)
