@@ -25,3 +25,7 @@
 ## MetaMax - SEO and Marketing WordPress Theme
 
 ![alt text](https://i.imgur.com/DXQwb0y.png)
+
+## Diza - Pharmacy Store Elementor WooCommerce Theme 
+
+![alt text](https://i.imgur.com/LmWPI0D.png)
