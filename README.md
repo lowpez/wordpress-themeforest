@@ -2,6 +2,10 @@
 
 ![alt text](https://i.imgur.com/d67RNft.png)
 
+## Hostzine - Hosting WordPress Theme  
+
+![alt text](https://i.imgur.com/P28hIcq.png)
+
 ## Vihan | Personal & Travel WordPress Blog Theme 
 
 ![alt text](https://i.imgur.com/HzOXtnR.png)
