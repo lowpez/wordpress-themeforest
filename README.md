@@ -29,3 +29,7 @@
 ## Diza - Pharmacy Store Elementor WooCommerce Theme 
 
 ![alt text](https://i.imgur.com/LmWPI0D.png)
+
+## Crucio - Responsive One Page WordPress Theme
+
+![alt text](https://i.imgur.com/OINgOtr.png)
