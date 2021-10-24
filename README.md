@@ -37,3 +37,7 @@
 ## Acrony Software and Saas Theme 
 
 ![alt text](https://i.imgur.com/0UgFXAm.png)
+
+## Omnivus - IT Solutions & Services WordPress Theme 
+
+![alt text](https://i.imgur.com/pI0f8SB.jpg)
